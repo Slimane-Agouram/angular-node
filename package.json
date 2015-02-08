@@ -1,0 +1,14 @@
+{
+  "name": "routing-app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.9.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "0.0.0",
+  "description": "ERROR: No README data found!",
+  "author": "",
+  "license": "BSD-2-Clause"
+}
